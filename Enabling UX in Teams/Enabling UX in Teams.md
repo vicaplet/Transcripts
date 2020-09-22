@@ -1,7 +1,7 @@
 # Enabling UX in Product teams
 
-### Disclaimer #1 <br>
-This is not about the "future mobility".<br>
+### Disclaimer #1 
+This is not about the "future mobility".
 I won't share with you crazy interfaces the user can control with the mind or anything like this.<br>
 
 The reason for this: to build the future we have to fix the present.<br><br>
